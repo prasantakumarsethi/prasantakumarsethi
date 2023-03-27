@@ -20,3 +20,6 @@
 prasantakumarsethi/prasantakumarsethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<a href="https://app.daily.dev/prasnatakumarsethi"><img src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400" alt="Prasanta Kumar Sethi's Dev Card"/></a>
