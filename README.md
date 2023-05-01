@@ -21,7 +21,7 @@ prasantakumarsethi/prasantakumarsethi is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prasanta-kumar-sethi-748578181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prasanta-kumar-sethi-748578181?trk=profile-badge">PRASANTA KUMAR SETHI</a></div>
 <div>
   <a href="https://app.daily.dev/prasnatakumarsethi"><img src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400" alt="Prasanta Kumar Sethi's Dev Card"/></a>
   <span>
