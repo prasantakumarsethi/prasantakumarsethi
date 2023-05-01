@@ -25,4 +25,17 @@ You can click the Preview link to take a look at your changes.
   <span>
 <img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon" src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg"></span>
  </div>
+ 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    <title>Page</title>
+</head>
+<body>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prasanta-kumar-sethi-748578181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prasanta-kumar-sethi-748578181?trk=profile-badge"></a></div>
+</body>
+</html>
 
