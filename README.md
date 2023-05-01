@@ -2,7 +2,7 @@
 - 👀 I’m interested in **[programming](https://medium.com/easyread/the-one-programming-language-to-rule-them-all-989ccc024b1b)**
 - 🌱 I’m currently learning **[python programming](http://educative.io/)**
 - 💞️ I’m am perfect with **[web designing](https://www.commonlounge.com/)**
-- 📫 **How to reach me >  <img src = "http://clipart-library.com/clipart/kcKo79r5i.htm">**
+- 📫 **How to reach me >  <img src = "[http://clipart-library.com/clipart/kcKo79r5i.htm](https://gifdb.com/images/high/happy-face-smiling-emoticon-mvjglw5in87ngrqx.gif)">**
 - **[FaceBook](https://www.facebook.com/prasantakumar.sethi.35)**
 - **[Instagram](https://www.instagram.com/its_simply_prasanta/)**
 - **[LinkedIn](https://www.linkedin.com/in/prasanta-kumar-sethi-748578181/)**                 
