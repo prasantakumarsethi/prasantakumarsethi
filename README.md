@@ -21,7 +21,6 @@ prasantakumarsethi/prasantakumarsethi is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <a href="https://app.daily.dev/prasnatakumarsethi"><img src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400" alt="Prasanta Kumar Sethi's Dev Card"/></a>
   <span>
 <img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon" src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg"></span>
