@@ -31,8 +31,13 @@ You can click the Preview link to take a look at your changes.
                 alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
     <span>
 </div>
-    <div>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a
+    <div class="row">
+  <div class="column">
+    <img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon"
+            src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg">
+  </div>
+  <div class="column">
+    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a
         href="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA?identity__email=prasanta2001.official%40gmail.com"><img
             width="120px" height="120px" src="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA/image"></a>
     <p class="badgr-badge-name"
@@ -47,5 +52,4 @@ You can click the Preview link to take a look at your changes.
             href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F-H54C5XOSiWc1J17b79-YA%3Fidentity__email%3Dprasanta2001.official%2540gmail.com&amp;identity__email=prasanta2001.official%40gmail.com"
             style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;"></a>
         </p< /blockquote>
-        <span><img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon"
-            src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg"></span></div>
+</div>
