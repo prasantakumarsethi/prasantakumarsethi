@@ -25,8 +25,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <span> <a href="https://app.daily.dev/prasnatakumarsethi"><img
                 src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400"
-                alt="Prasanta Kumar Sethi's Dev Card" /></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span><a href="https://app.daily.dev/prasnatakumarsethi"><img
+                alt="Prasanta Kumar Sethi's Dev Card" /></a></span>&nbsp;&nbsp;&nbsp;&nbsp;
                 src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=zrv" width="400"
                 alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
     <span>
