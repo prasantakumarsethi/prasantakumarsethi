@@ -30,6 +30,9 @@ You can click the Preview link to take a look at your changes.
                 alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
 </div>
     <div class="row">
+        <div>
+            <img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon" src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg">
+        </div>
   <div class="column">
    
   </div>
