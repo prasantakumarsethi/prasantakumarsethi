@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     <div class="row">
         <div>
             <img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon" src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg"><br/>
-            <strong>Google I/O</strong>
+            &nbsp;&nbsp;&nbsp;&nbsp;<strong>Google I/O</strong>
         </div>
   <div class="column">
    
