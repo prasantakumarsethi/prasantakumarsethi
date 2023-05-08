@@ -30,13 +30,8 @@ You can click the Preview link to take a look at your changes.
                 alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
 </div>
     <div class="row">
-        <div>
-            <img alt="Woot! I'm attending I/O. Are you? Let's go! #DevBadges #GoogleIO" class="badge-icon" src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg"><br/>
             <div class="devsite-badges-dialog-contents"><div class="badge-icon"><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" class="icon" alt="Attendee I/O '23"></div><div class="badge-date">Earned Mar 27, 2023</div><div class="badge-title">Attendee I/O '23</div><div class="badge-description">Registered for Google I/O</div></div>
         </div>
-  <div class="column">
-   
-  </div>
   <div class="column">
     <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a
         href="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA?identity__email=prasanta2001.official%40gmail.com"><img
