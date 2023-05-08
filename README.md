@@ -23,11 +23,11 @@ prasantakumarsethi/prasantakumarsethi is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-    <span> <a href="https://app.daily.dev/prasnatakumarsethi"><img
-                src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400"
-                alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
     <span><img src="https://media.licdn.com/dms/image/sync/C4D27AQGIH4888VbAZg/articleshare-shrink_1280_800/0/1683458094665?e=1684126800&amp;v=beta&amp;t=JFoNQDf-MwZKFSS5H6hIcfcN-Zfcgk3qarydXWbEhmI" loading="lazy" alt="" id="ember62" class="ivm-view-attr__img--centered  update-components-article__image evi-image lazy-image ember-view">
     <span>
+         <span> <a href="https://app.daily.dev/prasnatakumarsethi"><img
+                src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400"
+                alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
 </div>
     <div class="row">
   <div class="column">
