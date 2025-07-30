@@ -11,14 +11,7 @@
 - 📫 checkout my skyline by **[github](https://skyline.github.com/prasantakumarsethi/2020)**
 prasantakumarsethi/prasantakumarsethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<div>
-    <span><img src="https://media.licdn.com/dms/image/sync/C4D27AQGIH4888VbAZg/articleshare-shrink_1280_800/0/1683458094665?e=1684126800&amp;v=beta&amp;t=JFoNQDf-MwZKFSS5H6hIcfcN-Zfcgk3qarydXWbEhmI" loading="lazy" alt="" id="ember62" class="ivm-view-attr__img--centered  update-components-article__image evi-image lazy-image ember-view">
-    <span>
-         <span> <a href="https://app.daily.dev/prasnatakumarsethi"><img
-                src="https://api.daily.dev/devcards/87dc87aeffa74cb5a7fcafebf23a67ea.png?r=j4e" width="400"
-                alt="Prasanta Kumar Sethi's Dev Card" /></a></span>
-</div>
+<a href="https://app.daily.dev/prasnatakumarsethi"><img src="https://api.daily.dev/devcards/v2/qZj7SDZ48ZuVYcWqs3YNK.png?type=default&r=32h" width="356" alt="Prasanta Kumar Sethi's Dev Card"/></a>
     <div class="row">
             <div class="devsite-badges-dialog-contents"><div class="badge-icon"><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" class="icon" alt="Attendee I/O '23"></div><div class="badge-date">Earned Mar 27, 2023</div><div class="badge-title">Attendee I/O '23</div><div class="badge-description">Registered for Google I/O</div></div>
         </div>
