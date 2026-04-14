@@ -1,34 +1,85 @@
-- 👋 Hi, I’m **PRASANTA KUMAR SETHI**
-- 👀 I’m interested in
-**[programming](https://medium.com/easyread/the-one-programming-language-to-rule-them-all-989ccc024b1b)**
-- 🌱 I’m currently learning **[python programming](http://educative.io/)**
-- 💞️ I’m am perfect with **[web designing](https://www.commonlounge.com/)**
-- 📫 **How to reach me :::::>>>>**
-- **[FaceBook](https://www.facebook.com/prasantakumar.sethi.35)**
-- **[Instagram](https://www.instagram.com/its_simply_prasanta/)**
-- **[LinkedIn](https://www.linkedin.com/in/prasanta-kumar-sethi-748578181/)**
-- **[Devfolio](https://devfolio.co/@prasantakumar)**
-- 📫 checkout my skyline by **[github](https://skyline.github.com/prasantakumarsethi/2020)**
-prasantakumarsethi/prasantakumarsethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<a href="https://app.daily.dev/prasnatakumarsethi"><img src="https://api.daily.dev/devcards/v2/qZj7SDZ48ZuVYcWqs3YNK.png?type=default&r=32h" width="356" alt="Prasanta Kumar Sethi's Dev Card"/></a>
-    <div class="row">
-            <div class="devsite-badges-dialog-contents"><div class="badge-icon"><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" class="icon" alt="Attendee I/O '23"></div><div class="badge-date">Earned Mar 27, 2023</div><div class="badge-title">Attendee I/O '23</div><div class="badge-description">Registered for Google I/O</div></div>
-        </div>
-  <div class="column">
-    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a
-        href="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA?identity__email=prasanta2001.official%40gmail.com"><img
-            width="120px" height="120px" src="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA/image"></a>
-    <p class="badgr-badge-name"
-        style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">
-        Torc Member</p>
-    <p class="badgr-badge-date"
-        style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
-        <strong
-            style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:
-        </strong>May 2, 2023</p>
-    <p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank"
-            href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F-H54C5XOSiWc1J17b79-YA%3Fidentity__email%3Dprasanta2001.official%2540gmail.com&amp;identity__email=prasanta2001.official%40gmail.com"
-            style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;"></a>
-        </p< /blockquote>
-</div>
+<h1 align="center">Hi 👋, I'm Prasanta Kumar Sethi</h1>
+<h3 align="center">💻 Full Stack Developer | Java | Angular | Spring Boot</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 👀 I’m interested in **Programming & Scalable Web Applications**
+- 🌱 I’m currently learning **Python & Advanced Backend Systems**
+- 💞️ I’m skilled in **Web Designing & Frontend Development**
+- 🚀 Passionate about building **real-world applications & solving problems**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.facebook.com/prasantakumar.sethi.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/its_simply_prasanta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prasanta-kumar-sethi-748578181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://devfolio.co/@prasantakumar"><img src="https://img.shields.io/badge/Devfolio-000000?style=for-the-badge&logo=devfolio&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,html,css,bootstrap,mysql,git,github,kafka,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasantakumarsethi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasantakumarsethi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌆 GitHub Skyline
+
+<p align="center">
+  <a href="https://skyline.github.com/prasantakumarsethi/2020">
+    🌃 Check out my GitHub Skyline
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+### 🎯 Google I/O Attendee 2023
+<p align="center">
+  <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="120"/>
+</p>
+
+### 🏅 Torc Member Badge
+<p align="center">
+  <a href="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA?identity__email=prasanta2001.official%40gmail.com">
+    <img src="https://api.badgr.io/public/assertions/-H54C5XOSiWc1J17b79-YA/image" width="120"/>
+  </a>
+</p>
+
+---
+
+## 📱 Dev Card
+
+<p align="center">
+  <a href="https://app.daily.dev/prasnatakumarsethi">
+    <img src="https://api.daily.dev/devcards/v2/qZj7SDZ48ZuVYcWqs3YNK.png?type=default&r=32h" width="300" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> ⚡ I love turning ideas into real-world applications and continuously improving my skills.
+
+---
+
+⭐ **Thanks for visiting my profile!**
